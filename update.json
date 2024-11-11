@@ -12,9 +12,9 @@
     "scoperep": "33 33 13 40 00 00 F0 3F 00 00 80 5F 01"
   },
   "addresses": {
-    "neckr": 92L,
+    "neckr": 92,
     "neckw": 144,
-    "dragr": 40L,
-    "dragw": 92L
+    "dragr": 40,
+    "dragw": 92
   }
 }
