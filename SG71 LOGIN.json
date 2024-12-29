@@ -14,10 +14,7 @@
     {
       "key": "ABCDEF123456",
       "isUsed": false
-    },
-    {
-      "key": "GHIJKL789012",
-      "isUsed": false
     }
-  ]
+  ],
+  "updateLink": "https://example.com/latest_version.exe"
 }
