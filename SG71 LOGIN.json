@@ -1,0 +1,23 @@
+{
+  "version": "1.0.0",
+  "hash": "calculated_app_hash",
+  "hwidCheck": true,
+  "users": [
+    {
+      "username": "testuser",
+      "password": "password123",
+      "expiry": "2024-12-31",
+      "hwid": ""
+    }
+  ],
+  "licenses": [
+    {
+      "key": "ABCDEF123456",
+      "isUsed": false
+    },
+    {
+      "key": "GHIJKL789012",
+      "isUsed": false
+    }
+  ]
+}
